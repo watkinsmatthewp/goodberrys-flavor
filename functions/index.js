@@ -100,7 +100,7 @@ exports.getFlavor = functions.https.onRequest((request, response) => {
     let flavor = FLAVORS[dateStr];
     console.log(flavor);
     
-    let relativeDateToSay = dateStr === todayDateStr ? 'today' : 'that day';
+    let relativeDateToSay = dateStr === todayDateStr ? 'today' : 'on that day';
     if (flavor) {
       if (flavor === CLOSED_FLAVOR) {
         app.tell('Actually, Goodberry\'s is closed ' + relativeDateToSay + GOODBYE);
