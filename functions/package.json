@@ -1,7 +1,7 @@
 {
   "name": "Goodberrys",
   "description": "The Goodberrys bot",
-  "version": "0.0.1",
+  "version": "0.0.21",
   "author": "Matthew Watkins",
   "engines": {
     "node": "~4.2"
