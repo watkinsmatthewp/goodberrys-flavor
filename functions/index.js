@@ -99,7 +99,7 @@ const FLAVORS = {
   '2018-02-26': 'Peanut Butter',
   '2018-02-27': 'Banana Pudding',
   '2018-02-28': 'Coconut',
-  2018-03-01': 'Sweet Cream',
+  '2018-03-01': 'Sweet Cream',
   '2018-03-02': 'Strawberry',
   '2018-03-03': 'Chocolate Malt',
   '2018-03-04': 'Butter Pecan',
